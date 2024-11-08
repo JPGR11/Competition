@@ -21,12 +21,6 @@ public class Main extends Application {
 	}
 	
 	public static void main(String[] args) {
-		try {
-			launch(args);
-		}
-		catch(Throwable t) {
-			System.out.println("There was an error in the system, please try again");
-			System.exit(0);
-		}
+		launch(args);
 	}
 }
