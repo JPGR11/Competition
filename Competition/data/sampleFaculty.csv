@@ -1,6 +1,6 @@
-#Course ID,Course Name,Faculty Required,Room Required,Meeting Times
-C101,Introduction to Programming,F001,R101,"Mon 9-11, Wed 1-3"
-C102,Database Systems,F002,R102,"Mon 2-4, Fri 1-3"
-C103,Web Development,F003,R101,"Tue 1-3, Thu 2-4"
-C104,Networking Basics,F004,R103,"Wed 9-11, Fri 10-12"
-C105,Cybersecurity Essentials,F002,R105,"Thu 9-11, Fri 1-3"
+Faculty ID,Faculty Name,Available Timeframes,Max Courses
+F001,Dr. Alice Johnson,"Mon 9-1, Tue 10-2, Wed 1-5, Fri 9-1",2
+F002,Prof. Bob Smith,"Mon 2-6, Thu 9-1, Fri 1-5",3
+F003,Dr. Carol White,"Tue 1-5, Wed 9-1, Thu 2-6",2
+F004,Prof. David Brown,"Mon 10-2, Wed 2-6, Fri 10-2",1
+R105,Security Lab,20,"Computers, Secure Network"
